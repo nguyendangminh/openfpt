@@ -1,6 +1,6 @@
 package text2speech
 
-const Endpoint string = "http://api.openfpt.vn/text2speech/v3"
+const Endpoint string = "http://api.openfpt.vn/text2speech/v4"
 
 // voice type
 var Male string = "male"
